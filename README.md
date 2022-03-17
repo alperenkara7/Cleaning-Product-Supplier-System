@@ -1,0 +1,3 @@
+# Cleaning-Product-Supplier-System
+In this project, we are created a database that handles properties of Cleaning Product Supplier System. Information about orders, products, depots, employees, suppliers, payments are recorded in an organized way. Thanks to this system, managers of Cleaning Product Supplier will be able to process payments, order deliveries and other operations.
+We've generated a number of entities relating to Customer Supplier System as part of our database system. To summarize, when an order occurs from our customers, we are creating order consist of products. Payment making operations will be done according to amount of price of products. After that, orders will be delivered to customers’ addresses from our depots.
